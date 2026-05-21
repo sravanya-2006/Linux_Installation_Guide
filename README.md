@@ -1,5 +1,7 @@
 # 🐧 Complete Linux Installation & Setup Guide for Beginners
 
+<img src="screenshots/cover.png" width="100%">
+
 > Step-by-step Linux installation guide for Ubuntu, Fedora, Nobara, Linux Mint, and other Linux distributions.
 
 ---
@@ -56,6 +58,8 @@ Before installing Linux, make sure you have:
 - At least 25GB free storage
 
 ---
+<img src="screenshots/Complete process.png" width="800">
+
 
 # 📥 Downloading Linux ISO
 
@@ -340,6 +344,9 @@ Continue
 ---
 
 # 💾 Partitioning Guide
+
+<img src="screenshots/Difference.png" width="800">
+
 
 ## Option 1 — Install Alongside Windows
 
