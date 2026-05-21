@@ -1,6 +1,6 @@
 # 🐧 Complete Linux Installation & Setup Guide for Beginners
 
-<img src="screenshots/cover.png" width="100%">
+
 
 > Step-by-step Linux installation guide for Ubuntu, Fedora, Nobara, Linux Mint, and other Linux distributions.
 
